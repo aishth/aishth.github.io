@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: Aish's homepage
 description: Bookmark this to keep an eye on my project updates!
+
+#Build Settings
+markdown: kramdown
+remote_theme: benbalter/retlab
