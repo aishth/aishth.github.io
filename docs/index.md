@@ -1,7 +1,10 @@
+ <img align=right src='./img/profile.jpg' height=200 px>
+
 # Welcome!
-Hi, I am Dr. Aishwarya Linesh Thakur.  <img align=right src='./img/profile.jpg' height=200 px> <br>
+
+Hi, I am Dr. Aishwarya Linesh Thakur. 
 I am an astrophysicist working as a post-doctoral researcher at  
-the Istituto Nazionale di Astrofisica e Planetologia Spaziali in Rome, Italy.
+the Istituto Nazionale di Astrofisica e Planetologia Spaziali in Rome, Italy.<br>
 
 # Education
 
