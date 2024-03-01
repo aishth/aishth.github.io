@@ -1,6 +1,7 @@
-
-
-Hi, I am Dr. Aishwarya Linesh Thakur. I am an astrophysicist and I currently work as a post-doctoral researcher at the Istituto Nazionale di Astrofisica e Planetologia Spaziali in Rome, Italy.
+# Welcome!
+Hi, I am Dr. Aishwarya Linesh Thakur.  <img src='./img/profile.jpg'>
+I am an astrophysicist working as a post-doctoral researcher at  
+the Istituto Nazionale di Astrofisica e Planetologia Spaziali in Rome, Italy.
 
 # Education
 
