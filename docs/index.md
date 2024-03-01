@@ -5,8 +5,9 @@ Prior to this, I successfully defended my PhD thesis at the University of Rome, 
 
 ## Education
 
-Ph.D in Astrophysics 
-Joint PhD program in Astronomy, Astrophysics and Space Science of the Universities of Rome "Tor Vergata", "La Sapienza" and the National Institute of Astrophysics, Italy
-
+|Qualification | Institute | Year |
+|--------------|-----------|------|
+| PhD in Astrophysics | Joint PhD program in Astronomy, Astrophysics and Space Science of the Universities of Rome "Tor Vergata", "La Sapienza" and the National Institute of Astrophysics, Italy | 2023 |
+| MSc in Astrophysics | University of Glasgow, Scotland, the UK | 2018 |
 
 In the meantime, here is a link to my [papers](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-9354-2308&sort=date%20desc%2C%20bibcode%20desc&p_=0)
