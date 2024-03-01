@@ -6,9 +6,9 @@ Hi, I am Dr. Aishwarya Linesh Thakur. I am an astrophysicist and I currently wor
 
 |Qualification | Institute | Year |
 |:---:|:---:|:---:|
-| PhD in Astrophysics | Joint PhD program in Astronomy, Astrophysics and Space Science \n Universities of Rome "Tor Vergata", "La Sapienza" and the National Institute of Astrophysics <br> Rome, Italy | Thesis defended successfully on 16 March 2023 |
-| MSc in Astrophysics | University of Glasgow \n Scotland, the UK | 28 November 2018 |
-| BSc in Physics | Fergusson College, Pune \n (affiliated to the Savitribai Phule Pune University) | July 2017 |
+| PhD in Astrophysics | Astronomy, Astrophysics and Space Science PhD program <br> Universities of Rome "Tor Vergata", "La Sapienza" and <br> the National Institute of Astrophysics <br> Rome, Italy | Thesis defended successfully on 16 March 2023 |
+| MSc in Astrophysics | University of Glasgow <br> Scotland, the UK | 28 November 2018 |
+| BSc in Physics | Fergusson College, Pune <br> (affiliated to the Savitribai Phule Pune University) | July 2017 |
 
 # Research
 
