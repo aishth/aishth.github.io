@@ -6,16 +6,8 @@ Hi, I am Dr. Aishwarya Linesh Thakur.
 I am an astrophysicist working as a post-doctoral researcher at  
 the Istituto Nazionale di Astrofisica e Planetologia Spaziali in Rome, Italy.<br>
 
-# Education
-
-|Qualification | Institute | Year |
-|:----------------------------------:|:-----------------------------------:|:------------------------------------:|
-| PhD in Astrophysics | Astronomy, Astrophysics and Space Science PhD program <br> Universities of Rome "Tor Vergata", "La Sapienza" and <br> the National Institute of Astrophysics <br> Rome, Italy | Thesis defended successfully on <br> 16 March 2023 |
-| MSc in Astrophysics | University of Glasgow <br> Scotland, the UK | Graduated with Merit on <br> 28 November 2018 |
-| BSc in Physics | Fergusson College, Pune <br> (affiliated to the Savitribai Phule Pune University) | Graduated with Distinction on <br> 1 April 2017 |
-
 # Research
 
-My main research interest is gamma-ray bursts. More particularly, I perform and use multiwavelength observations of gamma-ray bursts to study the micro- and macro-physical properties of these fascinating sources. 
+My main research interest is gamma-ray bursts. I perform and use multiwavelength observations of these fascinating sources to study their micro- and macro-physical properties. 
 
 Here is a link to my [papers](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-9354-2308&sort=date%20desc%2C%20bibcode%20desc&p_=0)
