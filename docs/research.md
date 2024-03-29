@@ -1,5 +1,7 @@
 ### Research Interests:
 
+#### Overview 
+
 My primary research interest are the [transient](https://astrobites.org/2022/10/30/guide-to-transient-astronomy/) high-energy phenomena known as gamma-ray bursts. These are pulses of gamma-ray radiation that are observed from all over the sky.
 They are primarily linked to the end of the stellar life cycle in that they are typically produced by either:
 - [a collapsing massive star](https://en.wikipedia.org/wiki/Collapsar)
@@ -16,3 +18,7 @@ The prompt-phase emission is followed by a longer-lived broadband electromagneti
 A neat consequence of these two separate progenitor systems is that GRBs and their resulting emission can be associated to two fundamentally very distinct environments.<br>
 1. Collapsar-driven GRBs arise from a massive stellar progenitor and as a result are typically found in regions undergoing intense star-formation within their host galaxies.
 2. Merger-driven GRBs, on the other hand, require two explosions of the binary star components for them to end up as compact objects. As a result, these systems are found to be at a significant offset from their host galaxies. 
+
+#### Collapsar GRBs as probes of their environment
+
+Collapsar GRBs (LGRBs) are the most luminous explosions in the Universe, and are observable up to very high distances. Given their low angular offsets from their hosts, their bright and long-lived afterglow emission intercepts significant amounts of the medium along the line of sight. As a result, they can be used as probes of the medium in which the progenitor star evolved and exploded. This, coupled with their extreme brightness, means that we can use their afterglows to study the medium at very early epochs (12 Myr after the Big Bang) to understand how different it is from what we see around us today. 
