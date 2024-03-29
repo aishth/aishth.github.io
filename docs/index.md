@@ -11,3 +11,4 @@ the Istituto Nazionale di Astrofisica e Planetologia Spaziali in Rome, Italy.<br
 My main research interest is gamma-ray bursts. I perform and use multiwavelength observations of these fascinating sources to study their micro- and macro-physical properties. 
 
 Here is a link to my [papers](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-9354-2308&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+You can find a list of my educational qualifications [here][./education.md]
