@@ -13,4 +13,6 @@ The emission from a GRB consists of the initial pulse of gamma-rays, called as t
 The prompt-phase emission is followed by a longer-lived broadband electromagnetic transient that is called the afterglow emission, which can last from hours to years post-burst and is produced by the deceleration of particles accelerated in the jet by the surrounding medium.<br>
 <br>
 
-A neat consequence of these two separate progenitor systems is that GRBs are associated to two fundamentally very distinct environments.
+A neat consequence of these two separate progenitor systems is that GRBs and their resulting emission can be associated to two fundamentally very distinct environments.<br>
+1. Collapsar-driven GRBs arise from a massive stellar progenitor and as a result are typically found in regions undergoing intense star-formation within their host galaxies.
+2. Merger-driven GRBs, on the other hand, require two explosions of the binary star components for them to end up as compact objects. As a result, these systems are found to be at a significant offset from their host galaxies. 
