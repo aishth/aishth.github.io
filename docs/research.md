@@ -21,6 +21,14 @@ A neat consequence of these two separate progenitor systems is that GRBs and the
 
 #### Collapsar GRBs as probes of their environment
 
-Collapsar GRBs (LGRBs) are the most luminous explosions in the Universe, and are observable up to very high distances. Given their low angular offsets from their hosts, their bright and long-lived afterglow emission intercepts significant amounts of the medium along the line of sight. As a result, they can be used as probes of the medium in which the progenitor star evolved and exploded. This, coupled with their extreme brightness, means that we can use their afterglows to study the medium at very early epochs (12 Myr after the Big Bang) to understand how different it is from what we see around us today. <br>
+##### Overview and Characteristics
+
+Long gamma-ray bursts are powerful, high-energy explosions originating from distant galaxies and are some of the most energetic events in the universe. These bursts last longer than two seconds, distinguishing them from short gamma-ray bursts. Typically, LGRBs can last a few seconds to several minutes. Their progenitors are generally massive stars undergoing core-collapse (collapsars) at the end of their life. Collapsars are often found in regions of active star formation within galaxies, supporting the theory of their massive stellar origins.
+
+##### Scientific Significance and Implications
+
+LGRBs are spectacular cosmic phenomena and vital tools for astrophysical research. They serve as probes of the early universe, offering a glimpse into star formation and the conditions of distant galaxies. The detection of LGRBs at high redshifts helps astronomers study the universe's evolution and the processes leading to the formation of the first stars and galaxies.
+
+Moreover, LGRBs contribute to our understanding of fundamental physics under extreme conditions. Studying their relativistic jets, magnetic fields, and shock waves provides valuable information about particle acceleration and magnetic reconnection. Additionally, LGRBs can shed light on the production of heavy elements, as the conditions during the burst and subsequent supernova are conducive to nucleosynthesis. Given their low angular offsets from their hosts, their bright and long-lived afterglow emission intercepts significant amounts of the medium along the line of sight. As a result, they can be used as probes of the medium in which the progenitor star evolved and exploded. This, coupled with their extreme brightness, means that we can use their afterglows to study the medium at very early epochs (12 Myr after the Big Bang) to understand how different it is from what we see around us today. <br>
 
 In particular, I use X-ray telescopes such as _XMM-Newton_, _Chandra_, _Swift-XRT_ and the newly launched _Einstein Probe_ to observe the afterglow spectra of LGRBs. <br> I couple this X-ray data with optical spectra from telescopes such as _VLT_, _GTC_ and _Keck_, to produce a complete picture of the medium along our line of sight to the GRB.
