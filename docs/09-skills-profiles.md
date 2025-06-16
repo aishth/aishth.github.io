@@ -12,10 +12,17 @@
  
 ---
 
-# Online Profiles
+# Approved Proposals
 
-- [ENGRAVE](http://www.engrave-eso.org/)
-- [Stargate](https://indico.in2p3.fr/event/25549/contributions/102089/attachments/66998/93846/Stargate.pdf)
-- [Einstein Probe](https://ep.bao.ac.cn/ep/)
-- [LSST TVS](https://lsst-tvssc.github.io/)
-- [ADS Publications](https://ui.adsabs.harvard.edu/search/p_=0&q=orcid%3A0000-0001-9354-2308&sort=date%20desc%2C%20bibcode%20desc)
+- **PI:** High-redshift GRB radio follow-up (VLA, ATCA, MeerKAT, eMERLIN)  
+- **Co-I:** X-ray Flash & GW radio follow-up (VLA, ATCA, MeerKAT, eMERLIN)
+
+---
+
+# Collaborations
+
+- [ENGRAVE (ESO GW follow-up)](http://www.engrave-eso.org/)
+- [STARGATE (ESO GRB follow-up)](https://indico.in2p3.fr/event/25549/contributions/102089/attachments/66998/93846/Stargate.pdf)
+- [Einstein Probe: Panels 2, 3, 6](https://ep.bao.ac.cn/ep/)
+- [LSST TVS Science Collaboration (Data Rights holder & Preview delegate)](https://lsst-tvssc.github.io/)
+- [Athena: Science Working Group 3.6](https://www.the-athena-x-ray-observatory.eu/en/athena-community)
