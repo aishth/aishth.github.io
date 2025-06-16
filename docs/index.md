@@ -20,6 +20,3 @@ _**Please find the sections below:**_
 - [Pre-doctoral Projects](07-prephd-projects.md)
 - [Approved Proposals & Collaborations](08-proposals-collaborations.md)
 - [Skills, Languages & Online Profiles](09-skills-profiles.md)
-
----
-
