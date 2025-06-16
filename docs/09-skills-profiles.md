@@ -1,17 +1,4 @@
-# Skill Matrix
-
-## Astrophysics Skills
-
-| Skill | Level |
-|-------|-------|
-| Optical Data Reduction (GTC, VLT, LSST) | Expert |
-| X-ray (XMM, Swift, Fermi, Chandra) | Expert |
-| Radio Data Reduction (ATCA) | Expert |
-| Optical Photometry/Spectroscopy | Expert |
-| X-ray Analysis | Expert |
-| Radio Interferometry | Proficient |
-
-## Software Skills
+# Software Skills
 
 - **General Purpose:** Python (astropy, photutils, specutils, afterglowpy), Linux, LaTeX, Windows – *Expert*
 - **Specialized:** IRAF, ds9, ESOReflex, HEASoft, Xspec, Fermitools, TOPCAT, GAIA, hotpants, Ftools, CASA – *Expert*
@@ -19,12 +6,10 @@
 
 ---
 
-# Soft & Management Skills
+# Language Skills
 
 - **Languages:** English (IELTS 8.5), Italian (Advanced)
-- **Public Speaking:** Proficient
-- **Leadership, Planning:** Advanced/Proficient
-
+ 
 ---
 
 # Online Profiles
