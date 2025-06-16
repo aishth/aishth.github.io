@@ -1,3 +1,8 @@
+---
+title: Welcome to My Site
+layout: default
+---
+ 
  <img align=right src='./img/profile.jpg' height=200 px>
 
 # Welcome to My Academic CV
