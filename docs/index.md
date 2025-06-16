@@ -1,15 +1,20 @@
  <img align=right src='./img/profile.jpg' height=200 px>
 
-# Welcome!
+# Welcome to My Academic CV
 
-Hi, I am Dr. Aishwarya Linesh Thakur. 
-I am an astrophysicist working as a post-doctoral researcher at  
-the Istituto Nazionale di Astrofisica e Planetologia Spaziali in Rome, Italy.<br>
+This site presents a detailed view of my academic background, research interests, publications, and professional experience.
 
-# Research
+_**Please find the sections below:**_
 
-My main research interest is gamma-ray bursts. I perform and use multiwavelength observations of these fascinating sources to study their micro- and macro-physical properties. 
+- [Profile](01-profile.md)
+- [Education](02-education.md)
+- [Research Interests](03-research-interests.md)
+- [Research Experience](04-research-experience.md)
+- [Selected Publications](05-publications.md)
+- [Scholarships & Talks](06-scholarships-talks.md)
+- [Pre-doctoral Projects](07-prephd-projects.md)
+- [Approved Proposals & Collaborations](08-proposals-collaborations.md)
+- [Skills, Languages & Online Profiles](09-skills-profiles.md)
 
-Here is a link to my [papers](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-9354-2308&sort=date%20desc%2C%20bibcode%20desc&p_=0) <br>
-You can find a list of my educational qualifications [here](./education.md) <br>
-My research interests are outlined in more detail [on this page](./research.md)
+---
+
