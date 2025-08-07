@@ -1,7 +1,7 @@
 # Software Skills
 
 - **General Purpose:** Python (astropy, photutils, specutils, afterglowpy), Linux, LaTeX, Windows – *Expert*
-- **Specialized:** IRAF, ds9, ESOReflex, HEASoft, Xspec, Fermitools, TOPCAT, GAIA, hotpants, Ftools, CASA – *Expert*
+- **Specialized:** IRAF, ds9, ESOReflex, HEASoft, Xspec, Fermitools, TOPCAT, GAIA, hotpants, Ftools, CASA, CARTA – *Expert*
 - **Other Languages:** Octave, FORTRAN, R, bash, IDL – *Intermediate*
 
 ---
@@ -14,8 +14,8 @@
 
 # Approved Proposals
 
-- **PI:** High-redshift GRB radio follow-up (VLA, ATCA, MeerKAT, eMERLIN)  
-- **Co-I:** X-ray Flash & GW radio follow-up (VLA, ATCA, MeerKAT, eMERLIN)
+- **PI:** High-redshift GRB radio follow-up ([VLA](https://science.nrao.edu/facilities/vla), [ATCA](https://www.narrabri.atnf.csiro.au/), [MeerKAT](https://www.sarao.ac.za/science/meerkat/about-meerkat/), [e-MERLIN](https://www.e-merlin.ac.uk/))  
+- **Co-I:** X-ray Flash & Gravitational Wave radio follow-up ([VLA](https://science.nrao.edu/facilities/vla), [ATCA](https://www.narrabri.atnf.csiro.au/), [MeerKAT](https://www.sarao.ac.za/science/meerkat/about-meerkat/), [e-MERLIN](https://www.e-merlin.ac.uk/))
 
 ---
 
