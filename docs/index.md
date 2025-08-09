@@ -1,7 +1,6 @@
 ---
-title: Welcome to My Site
-layout: single
-permalink: /index/
+title: "Home"
+permalink: /
 ---
 
 ---
