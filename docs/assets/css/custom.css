@@ -1,10 +1,16 @@
-/* Make site full width */
+/* Force Leap Day full width */
 .wrapper,
+.wrapper > .inner,
 .inner {
   max-width: 100% !important;
   width: 100% !important;
-  padding: 0 2rem; /* small breathing space */
-  box-sizing: border-box;
+}
+
+section {
+  max-width: 100% !important;
+  width: 100% !important;
+  padding: 0 2rem !important; /* breathing space */
+  box-sizing: border-box !important;
 }
 
 /* Purple links */
