@@ -1,7 +1,10 @@
 /* Make site full width */
-.wrapper {
+.wrapper,
+.inner {
   max-width: 100% !important;
+  width: 100% !important;
   padding: 0 2rem; /* small breathing space */
+  box-sizing: border-box;
 }
 
 /* Purple links */
