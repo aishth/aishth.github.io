@@ -1,7 +1,8 @@
 # Software Skills
 
 - **General Purpose:** Python (astropy, photutils, specutils, afterglowpy), Linux, LaTeX, Windows – *Expert*
-- **Specialised:** <br>
+- **Specialised:**
+
 | Software | Observing band | Primary Use | Expertise |
 |----------|----------|----------|----------|
 | IRAF  | Optical  | Reduction: _GTC/OSIRIS_, general purpose  | Expert  |
@@ -19,7 +20,7 @@
 | GAIA | Optical | Analysis, general purpose  | Proficient |
 | CASA | Radio  | Reduction:_ATCA, VLA, e-MERLIN, MeerKAT_  | Proficient |
 | CARTA | Radio  | Analysis and visualisation: _VLA, e-MERLIN, MeerKAT_  | Proficient |
-<br>
+
 - **Other Languages:** Octave, FORTRAN, R, bash, IDL – *Intermediate*
 
 ---
