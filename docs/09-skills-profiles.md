@@ -13,7 +13,6 @@
 | bash | - | Intermediate |
 | IDL | - | Intermediate |
 
-  Python (astropy, photutils, specutils, afterglowpy), Linux, LaTeX, Windows – *Expert*
 - **Specialised:**
 
 | Software | Observing band | Primary Use | Expertise |
@@ -33,7 +32,6 @@
 | GAIA | Optical | Analysis, general purpose  | Proficient |
 | CASA | Radio  | Reduction:_ATCA, VLA, e-MERLIN, MeerKAT_  | Proficient |
 | CARTA | Radio  | Analysis and visualisation: _VLA, e-MERLIN, MeerKAT_  | Proficient |
-
 
 ---
 
