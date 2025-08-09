@@ -7,5 +7,5 @@ plugins:
 # Navigation bar pages
 header_pages:
   - index.md
-  - education.md
-  - research.md
+  - 09-skills-profiles.md
+  - 02-education.md
