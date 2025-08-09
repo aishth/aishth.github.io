@@ -1,16 +1,8 @@
-/* Force Leap Day full width */
-.wrapper,
-.wrapper > .inner,
-.inner {
+/* Full width adjustments */
+.page__content {
   max-width: 100% !important;
-  width: 100% !important;
-}
-
-section {
-  max-width: 100% !important;
-  width: 100% !important;
-  padding: 0 2rem !important; /* breathing space */
-  box-sizing: border-box !important;
+  padding: 0 2rem !important;
+  box-sizing: border-box;
 }
 
 /* Purple links */
