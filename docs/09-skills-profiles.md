@@ -1,7 +1,25 @@
 # Software Skills
 
 - **General Purpose:** Python (astropy, photutils, specutils, afterglowpy), Linux, LaTeX, Windows – *Expert*
-- **Specialized:** IRAF, ds9, ESOReflex, HEASoft, Xspec, Fermitools, TOPCAT, GAIA, hotpants, Ftools, CASA, CARTA – *Expert*
+- **Specialised:** <br>
+| Software | Observing band | Primary Use | Expertise |
+|----------|----------|----------|----------|
+| IRAF  | Optical  | Reduction: _GTC/OSIRIS_, general purpose  | Expert  |
+| SAOImage DS9  | Optical, X-ray  | Analysis and visualisation, general purpose  | Expert |
+| ESOReflex | Optical  | Reduction: _ESO VLT: X-Shooter, FORS2, HAWK-I_  | Expert |
+| hotpants | Optical  | Image subtraction, general purpose  | Expert |
+| HEASoft | X-ray  | general purpose  | Expert |
+| Xspec | X-ray  | general purpose | Expert |
+| Ftools | X-ray  | Reduction:_Swift-XRT_, general purpose | Expert |
+| XMM-SAS | X-ray  | Reduction: _EPIC-PN, EPIC-MOS, RGS_ | Expert |
+| WXTDAS | X-ray | Reduction: _Einstein Probe - WXT_ | Proficient |
+| FXTDAS | X-ray | Reduction: _Einstein Probe - FXT_ | Proficient |
+| Fermitools | X-ray | Reduction:_Fermi-GBM_  | Proficient  |
+| TOPCAT | Optical, X-ray, Radio  | Visualisation, general purpose  | Proficient |
+| GAIA | Optical | Analysis, general purpose  | Proficient |
+| CASA | Radio  | Reduction:_ATCA, VLA, e-MERLIN, MeerKAT_  | Proficient |
+| CARTA | Radio  | Analysis and visualisation: _VLA, e-MERLIN, MeerKAT_  | Proficient |
+<br>
 - **Other Languages:** Octave, FORTRAN, R, bash, IDL – *Intermediate*
 
 ---
