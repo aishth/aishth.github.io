@@ -1,6 +1,19 @@
 # Software Skills
 
-- **General Purpose:** Python (astropy, photutils, specutils, afterglowpy), Linux, LaTeX, Windows – *Expert*
+- **General Purpose:**
+
+| Software | Packages | Expertise |
+|----------|----------|----------|
+| Python  | astropy, photutils, specutils, afterglowpy, pyxspec  | Expert |
+| Linux  | Ubuntu, CentOS, RHEL  | Expert |
+| Windows  | - | Expert |
+| Octave | - | Intermediate |
+| R | - | Intermediate |
+| FORTRAN | - | Intermediate |
+| bash | - | Intermediate |
+| IDL | - | Intermediate |
+
+  Python (astropy, photutils, specutils, afterglowpy), Linux, LaTeX, Windows – *Expert*
 - **Specialised:**
 
 | Software | Observing band | Primary Use | Expertise |
@@ -9,8 +22,8 @@
 | SAOImage DS9  | Optical, X-ray  | Analysis and visualisation, general purpose  | Expert |
 | ESOReflex | Optical  | Reduction: _ESO VLT: X-Shooter, FORS2, HAWK-I_  | Expert |
 | hotpants | Optical  | Image subtraction, general purpose  | Expert |
-| HEASoft | X-ray  | general purpose  | Expert |
-| Xspec | X-ray  | general purpose | Expert |
+| HEASoft | X-ray  | Reduction and analysis, general purpose  | Expert |
+| Xspec | X-ray  | Analysis, general purpose | Expert |
 | Ftools | X-ray  | Reduction:_Swift-XRT_, general purpose | Expert |
 | XMM-SAS | X-ray  | Reduction: _EPIC-PN, EPIC-MOS, RGS_ | Expert |
 | WXTDAS | X-ray | Reduction: _Einstein Probe - WXT_ | Proficient |
@@ -21,7 +34,6 @@
 | CASA | Radio  | Reduction:_ATCA, VLA, e-MERLIN, MeerKAT_  | Proficient |
 | CARTA | Radio  | Analysis and visualisation: _VLA, e-MERLIN, MeerKAT_  | Proficient |
 
-- **Other Languages:** Octave, FORTRAN, R, bash, IDL – *Intermediate*
 
 ---
 
