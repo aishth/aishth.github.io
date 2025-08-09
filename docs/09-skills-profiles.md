@@ -1,6 +1,6 @@
 # Software Skills
 
-- **General Purpose:**
+## General Purpose
 
 | Software | Packages | Expertise |
 |----------|----------|----------|
@@ -14,7 +14,7 @@
 | IDL | - | Intermediate |
 
 
-- **Specialised:**
+## Specialised
 
 
 | Software | Observing band | Primary Use | Expertise |
