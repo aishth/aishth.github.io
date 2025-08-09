@@ -1,3 +1,9 @@
+---
+title: "Education"
+permalink: /education/
+---
+
+
 # Education
 
 | Qualification | Institute | Award | Duration |
