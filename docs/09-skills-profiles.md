@@ -26,13 +26,13 @@
 | HEASoft | X-ray  | Reduction and analysis, general purpose  | Expert |
 | Xspec | X-ray  | Analysis, general purpose | Expert |
 | Ftools | X-ray  | Reduction:_Swift-XRT_, general purpose | Expert |
-| XMM-SAS | X-ray  | Reduction: _EPIC-PN, EPIC-MOS, RGS_ | Expert |
+| XMM-SAS | X-ray  | Reduction: _XMM-Newton EPIC-PN, EPIC-MOS, RGS_ | Expert |
 | WXTDAS | X-ray | Reduction: _Einstein Probe - WXT_ | Proficient |
 | FXTDAS | X-ray | Reduction: _Einstein Probe - FXT_ | Proficient |
-| Fermitools | X-ray | Reduction:_Fermi-GBM_  | Proficient  |
-| TOPCAT | Optical, X-ray, Radio  | Visualisation, general purpose  | Proficient |
+| Fermitools | X-ray | Reduction: _Fermi-GBM_  | Proficient  |
+| TOPCAT | Optical, X-ray, Radio | Visualisation, general purpose  | Proficient |
 | GAIA | Optical | Analysis, general purpose  | Proficient |
-| CASA | Radio  | Reduction:_ATCA, VLA, e-MERLIN, MeerKAT_  | Proficient |
+| CASA | Radio  | Reduction: _ATCA, VLA, e-MERLIN, MeerKAT_  | Proficient |
 | CARTA | Radio  | Analysis and visualisation: _VLA, e-MERLIN, MeerKAT_  | Proficient |
 
 ---
