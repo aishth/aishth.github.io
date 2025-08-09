@@ -1,0 +1,13 @@
+/* Make site full width */
+.wrapper {
+  max-width: 100% !important;
+  padding: 0 2rem; /* small breathing space */
+}
+
+/* Purple links */
+a {
+  color: purple !important;
+}
+a:hover {
+  color: rebeccapurple !important;
+}
