@@ -1,3 +1,9 @@
+---
+title: "Research"
+permalink: /research/
+---
+
+
 ## A general summary of my research:
 
 My primary research interest is the [transient](https://astrobites.org/2022/10/30/guide-to-transient-astronomy/) high-energy phenomena known as gamma-ray bursts. These are pulses of gamma-ray radiation that are observed from all over the sky.
