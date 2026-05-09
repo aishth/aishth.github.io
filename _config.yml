@@ -1,6 +1,6 @@
 title: Aishwarya Linesh Thakur's homepage
 description: Bookmark this to keep an eye on my project updates!
-remote_theme: pages-themes/minimal@v0.2.0
+theme: null
 plugins:
   - jekyll-remote-theme
 
